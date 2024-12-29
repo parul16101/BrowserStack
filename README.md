@@ -1,6 +1,6 @@
 # BrowserStack
 
-# El País Opinion Section Scraper
+### El País Opinion Section Scraper
 
 This project automates the process of scraping articles from the **Opinion** section of the El País website. It performs the following tasks:
 
